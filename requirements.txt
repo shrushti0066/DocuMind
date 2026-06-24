@@ -1,1 +1,6 @@
-
+fastapi
+uvicorn
+langchain-text-splitters
+pydantic
+python-dotenv
+groq
