@@ -1,6 +1,8 @@
 fastapi
 uvicorn
 langchain-text-splitters
+python-multipart
 pydantic
-python-dotenv
 groq
+pypdf
+python-dotenv
